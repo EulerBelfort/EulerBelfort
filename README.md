@@ -7,7 +7,7 @@ Sou desenvolvedor com foco em automações e soluções web. Tenho experiência 
 📍 Apaixonado por produtividade, automação e inovação digital.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-perfil">
+    <a href="https://www.linkedin.com/in/euler-henrique-82b1b57a/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
