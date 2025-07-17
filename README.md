@@ -82,3 +82,25 @@ Sou desenvolvedor com foco em automações e soluções web. Tenho experiência 
 
 </p>
 
+</br>
+</br>
+## 🚀 Projetos em Destaque
+
+### 🧠 Automação de Capturas de E-mails com Power Automate
+
+<img src="https://github.com/user-attachments/assets/83f72f00-1523-4d74-a72c-b91cb7899225" width="600"/>
+
+Automação criada para capturar e-mails importantes e gerar relatórios diários com integração entre Excel e Power Automate, reduzindo 80% do tempo manual, evitando perda de SLA.
+
+🔗 [Repositório do projeto](https://github.com/seu-usuario/automacao-relatorios)
+
+---
+
+### 📊 Dashboard com Python + Power BI
+
+<img src="https://via.placeholder.com/600x300.png?text=Dashboard+Python+PowerBI" width="600"/>
+
+Script em Python para limpeza de dados e envio automático para dashboard em Power BI via API.
+
+🔗 [Repositório do projeto](https://github.com/seu-usuario/dashboard-python-powerbi)
+
